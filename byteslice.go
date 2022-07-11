@@ -3,7 +3,7 @@ package wire
 import (
 	"io"
 
-	. "github.com/neatlib/common-go"
+	. "github.com/neatio-network/common-go"
 )
 
 func WriteByteSlice(bz []byte, w io.Writer, n *int, err *error) {

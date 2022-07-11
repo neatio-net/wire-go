@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/neatlib/common-go"
+	. "github.com/neatio-network/common-go"
 )
 
 type SimpleStruct struct {

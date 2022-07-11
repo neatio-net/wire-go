@@ -7,7 +7,7 @@ import (
 	"io"
 	"reflect"
 
-	. "github.com/neatlib/common-go"
+	. "github.com/neatio-network/common-go"
 )
 
 var ErrBinaryReadOverflow = errors.New("Error: binary read overflow")

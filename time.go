@@ -4,7 +4,7 @@ import (
 	"io"
 	"time"
 
-	. "github.com/neatlib/common-go"
+	. "github.com/neatio-network/common-go"
 )
 
 /*

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/neatlib/common-go"
+	. "github.com/neatio-network/common-go"
 )
 
 func TestParse(t *testing.T) {

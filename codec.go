@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"time"
 
-	. "github.com/neatlib/common-go"
+	. "github.com/neatio-network/common-go"
 )
 
 type Encoder func(o interface{}, w io.Writer, n *int, err *error)

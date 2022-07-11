@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strconv"
 
-	. "github.com/neatlib/common-go"
-	"github.com/neatlib/wire-go"
+	. "github.com/neatio-network/common-go"
+	"github.com/neatio-network/wire-go"
 )
 
 type Byteful interface {
