@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	. "github.com/neatio-network/common-go"
-	"github.com/neatio-network/wire-go/expr"
+	. "github.com/neatio-net/common-go"
+	"github.com/neatio-net/wire-go/expr"
 )
 
 func main() {

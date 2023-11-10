@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	. "github.com/neatio-network/common-go"
+	. "github.com/neatio-net/common-go"
 )
 
 type TypeInfo struct {

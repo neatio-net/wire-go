@@ -7,7 +7,7 @@ import (
 
 	"golang.org/x/crypto/ripemd160"
 
-	. "github.com/neatio-network/common-go"
+	. "github.com/neatio-net/common-go"
 )
 
 func BinaryBytes(o interface{}) []byte {
